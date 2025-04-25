@@ -69,8 +69,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
