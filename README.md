@@ -8,7 +8,7 @@
 
 ###
 
-> Web-, ImGui/UX/UI-, Front-End Designer
+> UI & Web Developer
 
 ###
 
