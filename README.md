@@ -39,8 +39,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
