@@ -8,7 +8,7 @@
 
 ###
 
-> UI & Web Developer
+> highschooler from the EU
 
 ###
 
